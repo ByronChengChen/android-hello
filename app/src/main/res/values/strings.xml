@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓 Hello</string>
+    <string name="initial_message">这是一个用 Kiro 生成的项目</string>
+    <string name="button_text">点我试试</string>
+</resources>
